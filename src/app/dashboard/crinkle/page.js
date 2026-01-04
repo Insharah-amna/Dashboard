@@ -1,4 +1,4 @@
-import Addbtn from "@/components/custom/PackingModel";
+import Addbtn from "@/components/packing/PackingModel";
 import { Tablee } from "@/components/custom/table";
 import React from "react";
 

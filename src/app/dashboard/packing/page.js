@@ -1,5 +1,5 @@
 import React from "react";
-import PackingModel from "@/components/custom/PackingModel";
+import PackingModel from "@/components/packing/PackingModel";
 
 function page() {
 	return (
