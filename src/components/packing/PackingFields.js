@@ -1,5 +1,5 @@
 import React from "react";
-import CustomInput from "./Input";
+import CustomInput from "../custom/Input";
 
 const PackingFields = ({ packingFields, setPackingFields }) => {
 	return (

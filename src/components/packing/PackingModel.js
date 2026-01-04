@@ -1,9 +1,9 @@
 "use client";
 import { useEffect, useState } from "react";
 import { TableCell, TableRow } from "../ui/table";
-import CustomButton from "./Button";
-import { CustomDialog } from "./Dialog";
-import { CustomTable } from "./CustomTable";
+import CustomButton from "../custom/Button";
+import { CustomDialog } from "../custom/Dialog";
+import { CustomTable } from "../custom/CustomTable";
 import PackingFields from "./PackingFields";
 import { packingHeaderItems } from "../constants/Packing";
 
